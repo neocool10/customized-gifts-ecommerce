@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.neodev.cupgift.model.UserTests" time="0.026" tests="6" errors="0" skipped="0" failures="0">
+  <properties/>
+  <testcase name="UserRoleTest" classname="com.neodev.cupgift.model.UserTests" time="0.017"/>
+  <testcase name="EmailTest" classname="com.neodev.cupgift.model.UserTests" time="0.001"/>
+  <testcase name="MobileTest" classname="com.neodev.cupgift.model.UserTests" time="0.001"/>
+  <testcase name="PasswordTest" classname="com.neodev.cupgift.model.UserTests" time="0.001"/>
+  <testcase name="UsernameTest" classname="com.neodev.cupgift.model.UserTests" time="0"/>
+  <testcase name="userIdTest" classname="com.neodev.cupgift.model.UserTests" time="0.001"/>
+</testsuite>

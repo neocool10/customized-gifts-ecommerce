@@ -1,0 +1,63 @@
+2023-01-14 18:09:51 - INFO - Starting SpringappApplication using Java 17.0.5 on Amans-MacBook-Air.local with PID 3647 (/Users/amanchoudhary/Desktop/cupgift/springapp-master/target/classes started by amanchoudhary in /Users/amanchoudhary/Desktop/cupgift/springapp-master)
+2023-01-14 18:09:51 - INFO - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 18:09:51 - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-01-14 18:09:51 - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-01-14 18:09:51 - INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-01-14 18:09:51 - INFO - Finished Spring Data repository scanning in 61 ms. Found 5 JPA repository interfaces.
+2023-01-14 18:09:52 - INFO - Tomcat initialized with port(s): 8080 (http)
+2023-01-14 18:09:52 - INFO - Starting service [Tomcat]
+2023-01-14 18:09:52 - INFO - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2023-01-14 18:09:52 - INFO - Initializing Spring embedded WebApplicationContext
+2023-01-14 18:09:52 - INFO - Root WebApplicationContext: initialization completed in 1494 ms
+2023-01-14 18:09:52 - INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-01-14 18:09:52 - INFO - HHH000412: Hibernate ORM core version 5.6.8.Final
+2023-01-14 18:09:53 - INFO - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-14 18:09:53 - INFO - cup - Starting...
+2023-01-14 18:09:53 - INFO - cup - Start completed.
+2023-01-14 18:09:53 - INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2023-01-14 18:09:53 - INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-14 18:09:53 - INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-01-14 18:09:54 - WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-14 18:09:54 - INFO - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@23dd9b4f, org.springframework.security.web.context.SecurityContextPersistenceFilter@6dd9f5b0, org.springframework.security.web.header.HeaderWriterFilter@75780e10, org.springframework.web.filter.CorsFilter@580aadad, org.springframework.security.web.authentication.logout.LogoutFilter@266d9e12, com.neodev.cupgift.configuration.JwtRequestFilter@43f4cf79, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@63f90f31, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5159e1d5, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2043d21b, org.springframework.security.web.session.SessionManagementFilter@1ef15426, org.springframework.security.web.access.ExceptionTranslationFilter@517fa968, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5b78d3b3]
+2023-01-14 18:09:55 - INFO - LiveReload server is running on port 35729
+2023-01-14 18:09:55 - INFO - Tomcat started on port(s): 8080 (http) with context path ''
+2023-01-14 18:09:55 - INFO - Started SpringappApplication in 4.664 seconds (JVM running for 5.723)
+2023-01-14 18:10:05 - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-14 18:10:05 - INFO - Initializing Servlet 'dispatcherServlet'
+2023-01-14 18:10:05 - INFO - Completed initialization in 2 ms
+2023-01-14 18:15:12 - INFO - Application shutdown requested.
+2023-01-14 18:15:12 - INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-01-14 18:15:12 - INFO - cup - Shutdown initiated...
+2023-01-14 18:15:12 - INFO - cup - Shutdown completed.
+2023-01-14 18:46:13 - INFO - Starting SpringappApplication using Java 17.0.5 on Amans-MacBook-Air.local with PID 3814 (/Users/amanchoudhary/Desktop/cupgift/springapp-master/target/classes started by amanchoudhary in /Users/amanchoudhary/Desktop/cupgift/springapp-master)
+2023-01-14 18:46:13 - INFO - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 18:46:14 - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-01-14 18:46:14 - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-01-14 18:46:15 - INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-01-14 18:46:15 - INFO - Finished Spring Data repository scanning in 77 ms. Found 5 JPA repository interfaces.
+2023-01-14 18:46:15 - INFO - Tomcat initialized with port(s): 8080 (http)
+2023-01-14 18:46:15 - INFO - Starting service [Tomcat]
+2023-01-14 18:46:15 - INFO - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2023-01-14 18:46:16 - INFO - Initializing Spring embedded WebApplicationContext
+2023-01-14 18:46:16 - INFO - Root WebApplicationContext: initialization completed in 2382 ms
+2023-01-14 18:46:17 - INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-01-14 18:46:17 - INFO - HHH000412: Hibernate ORM core version 5.6.8.Final
+2023-01-14 18:46:17 - INFO - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-01-14 18:46:17 - INFO - cup - Starting...
+2023-01-14 18:46:17 - INFO - cup - Start completed.
+2023-01-14 18:46:17 - INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2023-01-14 18:46:18 - INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-14 18:46:18 - INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-01-14 18:46:19 - WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-14 18:46:20 - INFO - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@9c70b85, org.springframework.security.web.context.SecurityContextPersistenceFilter@56223046, org.springframework.security.web.header.HeaderWriterFilter@4688cd6, org.springframework.web.filter.CorsFilter@7fa711ef, org.springframework.security.web.authentication.logout.LogoutFilter@4de3d686, com.neodev.cupgift.configuration.JwtRequestFilter@49fdcdd1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@73d770ad, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7c60079e, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@cdda6c0, org.springframework.security.web.session.SessionManagementFilter@60e5459c, org.springframework.security.web.access.ExceptionTranslationFilter@6a538b52, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@77747354]
+2023-01-14 18:46:20 - INFO - LiveReload server is running on port 35729
+2023-01-14 18:46:20 - INFO - Tomcat started on port(s): 8080 (http) with context path ''
+2023-01-14 18:46:20 - INFO - Started SpringappApplication in 7.177 seconds (JVM running for 8.308)
+2023-01-14 18:46:29 - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-14 18:46:29 - INFO - Initializing Servlet 'dispatcherServlet'
+2023-01-14 18:46:29 - INFO - Completed initialization in 2 ms
+2023-01-14 21:06:02 - WARN - cup - Thread starvation or clock leap detected (housekeeper delta=2h12m44s604ms).
+2023-01-14 21:24:57 - INFO - Application shutdown requested.
+2023-01-14 21:24:57 - INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-01-14 21:24:57 - INFO - cup - Shutdown initiated...
+2023-01-14 21:24:57 - INFO - cup - Shutdown completed.
